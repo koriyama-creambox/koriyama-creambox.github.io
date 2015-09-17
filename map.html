@@ -133,11 +133,11 @@
                   var map = new google.maps.Map(document.getElementById('map'), options);
 
                   //現在地マーカー表示
-                  //var marker = new google.maps.Marker({
-                  //    position: latlng,
-                  //    map: map,
-                  //    title: '現在地'
-                  //});
+                  var marker = new google.maps.Marker({
+                      position: latlng,
+                      map: map,
+                      title: '現在地'
+                  });
 
                   //jsonデータの読み込み
                   $.ajax({
