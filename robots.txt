@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://koriyama-creambox.github.io/sitemap.xml
