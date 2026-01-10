@@ -124,4 +124,4 @@
 :HL["/_next/static/media/f59c1b95a391b88b-s.p.faee1e8f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/f5dfcb16021eb88f-s.p.bbf318da.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/fa37dd139adb2a59-s.p.c4dc055a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"waxsURM11WTMtYv4UwPIN","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"activities","paramType":null,"paramKey":"activities","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"EWDTk2DXIaUXU84K0aAeB","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"activities","paramType":null,"paramKey":"activities","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
